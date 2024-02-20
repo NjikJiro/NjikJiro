@@ -1,4 +1,4 @@
-![MasterHead]([https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8ddde2151997777.63168d2d68aad.gif](https://i.pinimg.com/originals/cd/6b/28/cd6b28345bb056db958c5a7b24277143.gif)
+![MasterHead](https://i.pinimg.com/originals/cd/6b/28/cd6b28345bb056db958c5a7b24277143.gif)
 <h1 align="center">Yo wassup, I'm Adyadma Renjiro</h1>
 <h3 align="center">A Junior Web Developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
